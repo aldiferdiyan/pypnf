@@ -15,7 +15,7 @@ setup(
     author='Stefan Waschke',
     author_email='swaschke.pypnf@gmail.com',
     license='GPL2',
-    packages=['pypnf'],
+    packages=['pypnf222'], 
     package_data={'pypnf': ['data/*.csv']},
     # packages=find_packages(),
     classifiers=['Development Status :: 4 - Beta',
